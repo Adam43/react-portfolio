@@ -3,10 +3,11 @@ Welcome to my developer portfolio, where I showcase my skills and work as a Full
 
 ## Tech Stack
 ### Frontend
-React: The front-end of the portfolio is developed using React, a popular JavaScript library for building user interfaces. React enables the creation of reusable components and facilitates efficient rendering, resulting in a smooth and responsive user experience.
-Tailwind CSS: To style the portfolio, I utilize Tailwind CSS, a utility-first CSS framework. Tailwind offers a vast collection of pre-built styles and components, allowing for rapid prototyping and easy customization. With Tailwind CSS, I ensure a visually appealing and responsive design for my portfolio.
+* React: The front-end of the portfolio is developed using React, a popular JavaScript library for building user interfaces. React enables the creation of reusable components and facilitates efficient rendering, resulting in a smooth and responsive user experience.
+* Tailwind CSS: To style the portfolio, I utilize Tailwind CSS, a utility-first CSS framework. Tailwind offers a vast collection of pre-built styles and components, allowing for rapid prototyping and easy customization. With Tailwind CSS, I ensure a visually appealing and responsive design for my portfolio.
 ### Backend
-getform.io: For form backend handling, I use getform.io. It provides a powerful and easy-to-use solution for automating form handling. With getform.io, I can effortlessly handle form submissions, receive notifications, and integrate with other services. It simplifies the process of capturing and managing form data, allowing me to focus on other aspects of my portfolio.
+
+* Form Handling: To handle form submissions and automate form processing, I integrate Getform.io into my portfolio. Getform.io provides a powerful and easy-to-use solution for automating form handling.  I can effortlessly handle form submissions, receive notifications, and integrate with other services. It simplifies the process of capturing and managing form data, allowing me to focus on other aspects of my portfolio.
 
 ## Sections
 ### Home
