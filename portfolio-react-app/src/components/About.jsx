@@ -14,7 +14,11 @@ const About = () => {
           </div>
           <div className='max-w-[1000px] w-full grid sm:grid-cols-2 gap-8 px-4'>
             <div className='sm:text-right text-4xl font-bold'>
+<<<<<<< HEAD:portfolio-react-app/src/components/About.jsx
               <p>Hi. I’m Kwame Bullen, nice to meet you. Please take a look around.</p>
+=======
+              <p>Hi. I'm Kwame Bullen, nice to meet you. Please take a look around.</p>
+>>>>>>> 076c310 (first commit):src/components/About.jsx
             </div>
             <div>
               <p>I am trained in Full stack JavaScript and Technology Management. I am able to build impressive website experiences as well as lead a project through the SDLC life cycle. I have a keen eye for detail and a passion for ensuring client satisfaction. I stay up-to-date with the latest front-end technologies, including React, Tailwind, Bootstrap, and Material UI and have experience integrating with back-end APIs and databases. Are you looking for a Front-End Engineer?</p>  
