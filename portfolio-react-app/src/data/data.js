@@ -13,25 +13,17 @@ export const data=[
     },
     {
         id:2,
-        name:"React JS Application",
+        name:"PlaceHolder",
         image:RealEst,
         github:"",
         live:"",
     },
     {
         id:3,
-        name:"React JS Application",
+        name:"PlaceHolder",
         image:WorkIm,
         github:"",
         live:"",
     },
-    {
-        id:4,
-        name:"React JS Application",
-        image:RealEst,
-        github:"",
-        live:"",
-    },
-
 
 ]
