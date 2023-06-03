@@ -27,6 +27,9 @@
     )!important;
 }
 
+body {
+    background-color: #0a192f;
+}
 /* .hover:nav-pink {
     box-shadow: inset 100px 0 0 0 #54b3d6;
     color: #DB2777;
@@ -39,3 +42,26 @@
 .line-thru {
     text-decoration: line-through;
 }
+
+
+/*Small Devices */
+    @media (max-width: 500px) {
+        /* .home {
+            height: 50rem;
+        } */
+        .about {
+            height: 55rem;
+            /* background-color: lightcoral; */
+            padding-bottom: 0px;
+        }
+        .skills {
+            height: 90rem;
+            /* background-color: orange; */
+        }
+        .work {
+            height: 60rem;
+        }
+        .contact {
+            height: 40rem;
+        }
+    }
