@@ -62,6 +62,8 @@ body {
             height: 60rem;
         }
         .contact {
-            height: 40rem;
+            height: 50rem;
+            padding-top: 10rem;
+            padding-bottom: 5rem;
         }
     }
