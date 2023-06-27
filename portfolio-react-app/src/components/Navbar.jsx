@@ -21,7 +21,7 @@ const Navbar = () => {
       
       <div className=''>
       <Link to={"/"}> {/*Home Anchor Tag doesn't work */}
-        <img src={Logo} alt='Logo Image' style={{ width: '80px' }} /> 
+        <img src={Logo} alt='Logo Image' style={{ width: '60px' }} /> 
       </Link>
       </div>
       
