@@ -9,7 +9,7 @@ import {
 } from 'react-icons/fa';
 import { HiOutlineMail } from 'react-icons/hi';
 import { BsFillPersonLinesFill } from 'react-icons/bs';
-import Logo from "../assets/kb-logo-blue.png";
+import Logo from "../assets/kb-logo1.png";
 import { Link } from 'react-scroll'; 
 
 const Navbar = () => {
@@ -21,7 +21,7 @@ const Navbar = () => {
       
       <div className=''>
       <Link to={"/"}> {/*Home Anchor Tag doesn't work */}
-        <img src={Logo} alt='Logo Image' style={{ width: '60px' }} /> 
+        <img src={Logo} alt='Logo Image' style={{ width: '100px' }} /> 
       </Link>
       </div>
       
