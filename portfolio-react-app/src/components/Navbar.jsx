@@ -10,7 +10,7 @@ import {
 import { HiOutlineMail } from 'react-icons/hi';
 import { BsFillPersonLinesFill } from 'react-icons/bs';
 import Logo from "../assets/kb-logo-blue.png";
-import { Link } from 'react-scroll';
+import { Link } from 'react-scroll'; 
 
 const Navbar = () => {
   const [nav, setNav] = useState(false);
