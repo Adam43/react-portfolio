@@ -33,64 +33,64 @@ const Skills = () => {
                   <p className='my-4'>HTML</p>
               </div>
               <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
-                  <img className='w-20 mx-auto' src={CSS} alt="HTML icon" />
+                  <img className='w-20 mx-auto' src={CSS} alt="CSS icon" />
                   <p className='my-4'>CSS</p>
               </div>
               <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
-                  <img className='w-20 mx-auto' src={JavaScript} alt="HTML icon" />
+                  <img className='w-20 mx-auto' src={JavaScript} alt="Javascript icon" />
                   <p className='my-4'>JAVASCRIPT</p>
               </div>
               <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
-                  <img className='w-20 mx-auto' src={ReactImg} alt="HTML icon" />
+                  <img className='w-20 mx-auto' src={ReactImg} alt="ReactJS icon" />
                   <p className='my-4'>REACT</p>
               </div>
               <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
-                  <img className='w-20 mx-auto' src={GitHub} alt="HTML icon" />
+                  <img className='w-20 mx-auto' src={GitHub} alt="Github icon" />
                   <p className='my-4'>GITHUB</p>
               </div>
               <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
-                  <img className='w-20 mx-auto' src={Node} alt="HTML icon" />
+                  <img className='w-20 mx-auto' src={Node} alt="NodeJS icon" />
                   <p className='my-4'>NODE JS</p>
               </div>
               <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
-                  <img className='w-20 mx-auto' src={Mongo} alt="HTML icon" />
+                  <img className='w-20 mx-auto' src={Mongo} alt="MongoDB icon" />
                   <p className='my-4'>MONGO DB</p>
               </div>
               <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
-                  <img className='w-20 mx-auto' src={PlanetScale} alt="HTML icon" />
+                  <img className='w-20 mx-auto' src={PlanetScale} alt="PlanetScale icon" />
                   <p className='my-4'>PLANETSCALE</p>
               </div>
               <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
-                  <img className='w-20 mx-auto' src={Tailwind} alt="HTML icon" />
+                  <img className='w-20 mx-auto' src={Tailwind} alt="Tailwind icon" />
                   <p className='my-4'>TAILWIND</p>
               </div>
               
               <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
-                  <img className='w-20 mx-auto' src={Bootstrap} alt="HTML icon" />
+                  <img className='w-20 mx-auto' src={Bootstrap} alt="Bootstrap icon" />
                   <p className='my-4'>BOOTSTRAP</p>
               </div>
               <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
-                  <img className='w-20 mx-auto' src={MUI} alt="HTML icon" />
+                  <img className='w-20 mx-auto' src={MUI} alt="MaterialUI icon" />
                   <p className='my-4'>MATERIAL UI</p>
               </div>
               <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
-                  <img className='w-20 mx-auto' src={Redux} alt="HTML icon" />
+                  <img className='w-20 mx-auto' src={Redux} alt="Redux icon" />
                   <p className='my-4'>REDUX</p>
               </div>
               <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
-                  <img className='w-20 mx-auto' src={AWS} alt="HTML icon" />
+                  <img className='w-20 mx-auto' src={AWS} alt="AWS icon" />
                   <p className='my-4'>AWS</p>
               </div>
               <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
-                  <img className='w-20 mx-auto' src={Azure} alt="HTML icon" />
+                  <img className='w-20 mx-auto' src={Azure} alt="Azure icon" />
                   <p className='my-4'>AZURE</p>
               </div>
                <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
-                  <img className='w-20 mx-auto' src={Jira} alt="HTML icon" />
+                  <img className='w-20 mx-auto' src={Jira} alt="Jira icon" />
                   <p className='my-4'>JIRA</p>
               </div>
               <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
-                  <img className='w-20 mx-auto' src={Prisma} alt="HTML icon" />
+                  <img className='w-20 mx-auto' src={Prisma} alt="Prisma icon" />
                   <p className='my-4'>PRISMA ORM</p>
               </div>
 
