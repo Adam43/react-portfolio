@@ -14,12 +14,12 @@ const Work = () => {
     <div className='work w-full lg:h-screen text-gray-300 bg-[#0a192f]'>
       <div className='max-w-[1000px] mx-auto p-4 flex flex-col justify-center w-full h-full'>
         <div className='pb-8'>
-          <p className='text-4xl font-bold inline border-b-4 text-gray-300 border-pink-600'>
+          <h2 className='text-4xl font-bold inline border-b-4 text-gray-300 border-pink-600'>
             Work
-          </p>
+          </h2>
           <p className='py-6 line-thru'>-// Check out some of my recent work</p>
           <span className='text-yellow-400 font-bold'> ⚠️ STILL UNDER CONSTRUCTION ⚠️</span>
-          <p className='pt-12 font-bold text-2xl flex justify-center'>Major Projects</p>
+          <h3 className='pt-12 font-bold text-2xl flex justify-center'>Major Projects</h3>
         </div>
 
 

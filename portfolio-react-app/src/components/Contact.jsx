@@ -5,7 +5,7 @@ const Contact = () => {
     <div name='contact' className='contact w-full h-screen bg-[#0a192f] flex justify-center items-center p-4'>
         <form method='POST' action="https://getform.io/f/8d180438-078c-4106-ac16-d7b1e5ec02ca" className='flex flex-col max-w-[600px] w-full'>
             <div className='pb-8'>
-                <p className='text-4xl font-bold inline border-b-4 border-pink-600 text-white'>Contact</p>
+                <h2 className='text-4xl font-bold inline border-b-4 border-pink-600 text-white'>Contact</h2>
                 <p className='text-gray-300 py-4'>-// Submit the form below or shoot me an 
                 email - kwamebullen.dev@gmail.com</p>
             </div>

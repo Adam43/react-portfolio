@@ -21,7 +21,7 @@ const Navbar = () => {
       
       <div className=''>
       <Link to={"/"}> {/*Home Anchor Tag doesn't work */}
-        <img src={Logo} alt='Logo Image' style={{ width: '7rem' }} /> 
+        <img src={Logo} alt='Logo Image' title="KB Logo" style={{ width: '7rem' }} /> 
       </Link>
       </div>
       
@@ -108,8 +108,9 @@ const Navbar = () => {
               href='https://www.linkedin.com/in/kwamebullen/'
               target="_blank"
               rel="noopener noreferrer"
+              title="LinkedIn"
             >
-              Linkedin <FaLinkedin size={30} />
+              LinkedIn <FaLinkedin size={30} />
             </a>
           </li>
           <li className='w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-[#333333]'>
@@ -118,6 +119,7 @@ const Navbar = () => {
               href='https://github.com/Adam43'
               target="_blank"
               rel="noopener noreferrer"
+              title="Github"
             >
               Github <FaGithub size={30} />
             </a>
@@ -128,6 +130,7 @@ const Navbar = () => {
               href='mailto:kwamebullen.dev@gmail.com?subject=Question for Kwame.Dev Site'
               target="_blank"
               rel="noopener noreferrer"
+              title="Email"
             >
               Email <HiOutlineMail size={30} />
             </a>
@@ -138,6 +141,7 @@ const Navbar = () => {
               href='https://docsend.com/view/ejxjfaicf2q6pzff'
               target='_blank'
               rel="noopener noreferrer"
+              title="Resume"
             >
               Resume <BsFillPersonLinesFill size={30} />
             </a>
